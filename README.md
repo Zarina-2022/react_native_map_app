@@ -49,4 +49,4 @@ This project combines effective user management with intuitive navigation and ri
 
 ### Screen gif:
 
-<img src="map.gif" width="300" height="500">
+<img src="map.gif" width="300" height="600">
