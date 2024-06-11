@@ -1,0 +1,14 @@
+export const MAP = 'Map';
+export const DETAIL = 'Detail';
+export const NOTES = 'Notes';
+export const ADDNOTE = 'Add New Note';
+export const EDITNOTE = 'Edit Note';
+export const SIGNIN = 'Sing In';
+export const SIGNUP = 'Sign Up';
+export const LAUNCH = 'Launch';
+export const PROFILE = 'Profile';
+export const TAB = 'Tab';
+export const FAVORITES = 'Favorites';
+export const COORDINATESELECT = 'Coordinate Select';
+export const ADDLOCATION = 'Add Location';
+export const EDISUSER = 'Edit User';
